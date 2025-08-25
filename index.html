@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta version="2026/06/02 10:11:22">
+        <meta link_version="20261215">
+        <meta link_wl_version="20261215">
+    </head>
+    <body>
+        <h1>ファイルの配布</h1>
+        <!-- ここにファイルの内容やその他のHTML要素を追加できます -->
+        <a  href="./assets/Installer.exe" download="Installer.exe">インストーラ</a>
+
+        <h1>推奨ゲーム</h1>
+        <a  href="./assets/link_wl.json" download="link_wl.json">リストをDL</a>
+        <table id="data-table">
+            <thead>
+                <tr>
+                    <th>title</th>
+                    <th>ID</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- JSONデータがここに挿入されます -->
+            </tbody>
+        </table>
+
+        
+        <script>
+            // JSONファイルを読み込む関数
+            fetch('./assets/link_wl.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const tableBody = document.querySelector('#data-table tbody');
+                    data.forEach(item => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${item.title}</td>
+                            <td>${item.ID}</td>
+                        `;
+                        tableBody.appendChild(row);
+                    });
+                })
+                .catch(error => {
+                    console.error('There has been a problem with your fetch operation:', error);
+                });
+        </script>
+    </body>
+</html>
