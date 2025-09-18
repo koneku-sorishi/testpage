@@ -36,7 +36,7 @@
                 })
                 .then(data => {
                     const tableBody = document.querySelector('#data-table tbody');
-                    data.forEach(item => {
+                    data.games.forEach(item => {
                         const row = document.createElement('tr');
                         row.innerHTML = `
                             <td>${item.title}</td>
@@ -52,3 +52,4 @@
     </body>
 
 </html>
+
