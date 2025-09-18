@@ -1,4 +1,6 @@
-[
+{
+"version" : 25121500 ,
+"games" : [
     {
         "ID" : "751440" ,
         "title" : "VR Kanojo",
@@ -14,7 +16,7 @@
         "title" : "Epic Roller Coasters",
         "RelativePath" : "from/steampath/to/Epic Roller Coasters Path"
     },
-	{
+    {
         "ID": "407060",
         "title": "AltspaceVR",
         "RelativePath": "from/steampath/to/AltspaceVR Path"
@@ -88,5 +90,6 @@
         "ID": "2679460",
         "title": "メタファー：リファンタジオ",
         "RelativePath": "from/steampath/to/メタファー：リファンタジオ Path"
-    }
-]
+    }   
+    ]
+}
