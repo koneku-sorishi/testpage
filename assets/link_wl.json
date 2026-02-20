@@ -1,5 +1,5 @@
 {
-"version" : 26111500 ,
+"version" : 26101500 ,
 "games" : [
     {
         "ID" : "751440" ,
@@ -90,46 +90,6 @@
         "ID": "2679460",
         "title": "メタファー：リファンタジオ",
         "RelativePath": "from/steampath/to/メタファー：リファンタジオ Path"
-    },
-    {
-        "ID": "1245620",
-        "title": "ELDEN RING",
-        "RelativePath": "from/steampath/to/ELDEN RING Path"
-    },
-    {
-        "ID": "271590",
-        "title": "Grand Theft Auto V",
-        "RelativePath": "from/steampath/to/Grand Theft Auto V Path"
-    },
-    {
-        "ID": "292030",
-        "title": "The Witcher 3: Wild Hunt",
-        "RelativePath": "from/steampath/to/The Witcher 3 Wild Hunt Path"
-    },
-    {
-        "ID": "1174180",
-        "title": "Red Dead Redemption 2",
-        "RelativePath": "from/steampath/to/Red Dead Redemption 2 Path"
-    },
-    {
-        "ID": "413150",
-        "title": "Stardew Valley",
-        "RelativePath": "from/steampath/to/Stardew Valley Path"
-    },
-    {
-        "ID": "1091500",
-        "title": "Cyberpunk 2077",
-        "RelativePath": "from/steampath/to/Cyberpunk 2077 Path"
-    },
-    {
-        "ID": "1145360",
-        "title": "Hades",
-        "RelativePath": "from/steampath/to/Hades Path"
-    },
-    {
-        "ID": "548430",
-        "title": "Deep Rock Galactic",
-        "RelativePath": "from/steampath/to/Deep Rock Galactic Path"
     }
     ]
 }
