@@ -9,11 +9,11 @@
     {
         "ID" : "438100",
         "title" : "VRChat",
-        "RelativePath" : "from/steampath/to/VRChat Path"
+        "RelativePath" : "test"
     },
     {
         "ID" :"787790", 
-        "title" : "Epic Roller Coasters",
+        "title" : "エピックローラーコースターのテスト",
         "RelativePath" : "from/steampath/to/Epic Roller Coasters Path"
     },
     {
