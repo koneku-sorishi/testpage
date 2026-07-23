@@ -1,5 +1,5 @@
 {
-"version" : 26101500 ,
+"version" : 26072300 ,
 "games" : [
     {
         "ID" : "751440" ,
@@ -17,7 +17,7 @@
         "RelativePath" : "from/steampath/to/Epic Roller Coasters Path"
     },
     {
-        "ID": "407060",
+        "ID": "2191280",
         "title": "AltspaceVR",
         "RelativePath": "from/steampath/to/AltspaceVR Path"
     },
