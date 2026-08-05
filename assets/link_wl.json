@@ -2,19 +2,9 @@
 "version" : 26080400 ,
 "games" : [
     {
-        "ID" : "2954880" ,
-        "title" : "VRな彼女 / VR-Kanojo",
-        "RelativePath" : "from/steampath/to/VR Kanojo Path"
-    },
-    {
         "ID" : "438100",
         "title" : "VRChat",
         "RelativePath" : "from/steampath/to/VRChat Path"
-    },
-    {
-        "ID" :"457550",
-        "title" : "Bigscreen Beta",
-        "RelativePath" : "from/steampath/to/Bigscreen Beta Path"
     }
     ]
 }
