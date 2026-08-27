@@ -1,0 +1,30 @@
+{
+"version" : 26080500 ,
+"games" : [
+    {
+        "ID" : "1481400",
+        "title" : "Dagon: by H. P. Lovecraft",
+        "RelativePath" : "from/steampath/to/Dagon: by H. P. Lovecraft Path"
+    },
+    {
+        "ID" : "555160",
+        "title" : "Pavlov",
+        "RelativePath" : "from/steampath/to/Pavlov Path"
+    },
+    {
+        "ID" : "947890",
+        "title" : "VirtualCast",
+        "RelativePath" : "from/steampath/to/VirtualCast Path"
+    },
+    {
+        "ID" : "787790",
+        "title" : "Epic Roller Coasters",
+        "RelativePath" : "from/steampath/to/Epic Roller Coasters Path"
+    },
+    {
+        "ID" : "438100",
+        "title" : "VRChat",
+        "RelativePath" : "from/steampath/to/VRChat Path"
+    }
+    ]
+}
