@@ -25,6 +25,11 @@
         "ID" : "438100",
         "title" : "VRChat",
         "RelativePath" : "from/steampath/to/VRChat Path"
-    }
+    },
+    {
+        "ID": "310360",
+        "title": "	Higurashi When They Cry Hou - Ch.1 Onikakushi",
+        "RelativePath": "from/steampath/to/	Higurashi When They Cry Hou - Ch.1 Onikakushi Path"
+    }      
     ]
 }
